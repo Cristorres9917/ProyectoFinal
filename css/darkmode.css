@@ -1,0 +1,11 @@
+.dark-mode .contenido-principal{
+    background: #353535;  
+}
+
+.dark-mode h2  {
+    color: var(--blanco);
+}
+
+.dark-mode .price {
+    color: var(--blanco);
+}
