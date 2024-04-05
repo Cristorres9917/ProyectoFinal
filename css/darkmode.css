@@ -9,3 +9,16 @@
 .dark-mode .price {
     color: var(--blanco);
 }
+
+.dark-mode .date-num{
+    color: white;
+}
+
+.dark-mode .date-day{
+    color: white;
+}
+
+.dark-mode .time-marker{
+    color: white;
+}
+
